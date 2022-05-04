@@ -1,14 +1,16 @@
 # Supervised Learning
 ## Definition
-Supervised learning, also known as supervised machine learning, is a subcategory of machine learning and artificial intelligence. It is defined by its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately. As input data is fed into the model, it adjusts its weights until the model has been fitted appropriately, which occurs as part of the cross validation process. Supervised learning helps organizations solve for a variety of real-world problems at scale, such as classifying spam in a separate folder from your inbox.
+Supervised learning is a type of machine learning that makes use of labeled datasets. These datasets are used to train or "supervise" algorithms so that they can accurately identify data or forecast outcomes. The model could check its accuracy by using labeled inputs and outputs.The goal for supervised learning is to predict results using new data, with some known expectations.There are two types of problems when doing the data mining: classification and regression.
+#### Classification
+Classification problems, like distinguishing dogs from cats, utilize an algorithm to correctly assign test data into correct categories. Classification algorithms including algorithms such as decision tress, random forests, and linear classifier.
+#### Regression
+Another kind of supervised learning method is regression, which employs an algorithm to identify the relationship between dependent and independent variables. Regression models are useful for forecasting quantitative value based on a variety of data sources, linear regression and logistic regression are common regression algorithms.
 ## Topics
-###### 1.Decision Trees
-###### 2.KNN
-###### 3.Gradient Descent
-###### 4.Logistic Regression
-###### 5.Linear Regression
-###### 6.Decision Tree
-###### 7.Perceptron
-###### 8.Neural Network
-###### 9.Random Forest
-
+1.Decision Trees
+2.KNN
+3.Gradient Descent
+5.Linear Regression
+6.Decision Tree
+7.Perceptron
+8.Neural Network
+9.Random Forest
