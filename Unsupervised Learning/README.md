@@ -1,11 +1,7 @@
 ## Unsupervised Learning
 
 ## Definition
-Unsupervised learning is a type of machine learning in which the algorithm is not provided with any pre-assigned labels or scores for the training data. As a result, unsupervised learning algorithms must first self-discover any naturally occurring patterns in that training data set. (From Wikipedia)
+Unsupervised learning analyzes and clusters unlabeled data sets by machine learning algorithms. These algorithms find hidden patterns in data without the assistance of humans (thus the term "unsupervised"). The goal for unsupervised learning is to get some insights from a large dataset. One of the main objects for unsupervised learning is clustering. Clustering can group unlabeled data into groups based on similarities and differences. 
 
-## Contents
-In this file path, I will show one unsupervised machine learning algorithm. A description of the project is given below:
-
-K-Means Clustering: Using K-Means Clustering on Automobile Customers data in order to find the relationship among different Characteristics。
-
-
+## Topic
+K-Means Clustering: divide related data points into groups, with the K value indicating the size and granularity of the grouping. This method is useful for market segmentation, image compression, and other applications. 
