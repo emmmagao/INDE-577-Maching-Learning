@@ -10,7 +10,7 @@ This repository intends to show the final project of course INDE 577 Data Scienc
 * Perceptron
 #### Unsupervised Learning
 * K-means clustering
-#### Data
-Datasets used in this repository are mainly coming from Kaggles and UCI Machine Learning Repository
-#### Programming Tool
-Python, Jupyter Notebook
+## Data
+Datasets used in this repository are mainly coming from Kaggles and UCI Machine Learning Repository.
+## Programming Tool
+In this repository, I mainly used Python, Jupyter Notebook.
