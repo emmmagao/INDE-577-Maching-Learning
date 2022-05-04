@@ -1,2 +1,2 @@
 # INDE-577-Maching-Learning
-ddddd
+Supervised learning is training an algorithm with pre-determined labels and features. A label is the prediction we are interested in and the exact shape and meaning of a label can change from project to project. For example, the label for a computer vision project is typically uses a one-hot encoding method the size of the number of objects the algorithm needs to learn while the label of a regression algorithm is a prediction made by fitting a line to data.
