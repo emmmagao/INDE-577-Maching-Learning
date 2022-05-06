@@ -6,11 +6,12 @@ Classification problems, like distinguishing dogs from cats, utilize an algorith
 #### Regression
 Another kind of supervised learning method is regression, which employs an algorithm to identify the relationship between dependent and independent variables. Regression models are useful for forecasting quantitative value based on a variety of data sources, linear regression and logistic regression are common regression algorithms.
 ## Topics
-1.Decision Trees
-2.KNN
-3.Gradient Descent
-5.Linear Regression
-6.Decision Tree
-7.Perceptron
-8.Neural Network
-9.Random Forest
+###### 1.Decision Trees
+###### 2.KNN
+###### 3.Gradient Descent
+###### 5.Linear Regression
+###### 6.Logistic Regression
+###### 7.Decision Tree
+###### 8.Perceptron
+###### 9.Neural Network
+###### 10.Random Forest
