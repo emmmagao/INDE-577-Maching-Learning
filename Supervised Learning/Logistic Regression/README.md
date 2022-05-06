@@ -6,5 +6,6 @@ Logistic regression is a statistical approach for developing machine learning mo
 ###### 4. For logistic regression, we need use a big sample size.
 
 ## Dataset
-
+For this project, I used the Breast Cancer Wisconsin (Prognostic) dataset from Kaggle. 
 ## Task
+This project aims to get the clssification of diagnosis of the cancer, assess the model using ROC value, and usinging confusion matric to lookat the precision rate
