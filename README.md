@@ -9,6 +9,7 @@ This repository intends to show the final project of course INDE 577 Data Scienc
 * Neural Network
 * Perceptron
 * Random Forest
+* SVM
 #### Unsupervised Learning
 * K-means clustering
 ## Data
