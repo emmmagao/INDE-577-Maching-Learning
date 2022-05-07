@@ -11,7 +11,9 @@ In this project, I will use Classification in asteroseismology dataset。
 Population as follows:
 0 = RGB
 1 = HeB
+
 RGB (Red Giant Branch)
+
 HeB (Helium Burning)
 - Dnu F8.5 (uHz) Mean large frequency separation of modes with the same degree and consecutive order, {DELTA}nu
 - numax F9.5 (uHz) Frequency of maximum oscillation power
