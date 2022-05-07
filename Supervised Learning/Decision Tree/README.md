@@ -15,3 +15,4 @@ In this project, I will use Personal Key Indicators of Heart Disease dataset fro
  - Age
 
 ## Task
+In this project, I will find the optimal depth and plot the tree
