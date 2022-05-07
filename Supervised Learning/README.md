@@ -11,8 +11,7 @@ Another kind of supervised learning method is regression, which employs an algor
 ###### 3.Gradient Descent
 ###### 4.Linear Regression
 ###### 5.Logistic Regression
-###### 6.Decision Tree
-###### 7.Perceptron
-###### 8.Neural Network
-###### 9.Random Forest
-###### 10. SVM
+###### 6.Perceptron
+###### 7.Neural Network
+###### 8.Random Forest
+###### 9. SVM
