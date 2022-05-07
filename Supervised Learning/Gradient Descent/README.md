@@ -4,4 +4,4 @@ Gradient descent is a popular optimization approach for training machine learnin
 ## Dataset
 I will use Breast Cancer Wisconsin (Prognostic) dataset for this project
 ## Task
-In this project, I will write the gradient descent for logistic regression to find the classification of cancers
+In this project, I will write the gradient descent from scratch for logistic regression to find the classification of cancers
