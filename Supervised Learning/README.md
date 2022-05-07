@@ -9,9 +9,10 @@ Another kind of supervised learning method is regression, which employs an algor
 ###### 1.Decision Trees
 ###### 2.KNN
 ###### 3.Gradient Descent
-###### 5.Linear Regression
-###### 6.Logistic Regression
-###### 7.Decision Tree
-###### 8.Perceptron
-###### 9.Neural Network
-###### 10.Random Forest
+###### 4.Linear Regression
+###### 5.Logistic Regression
+###### 6.Decision Tree
+###### 7.Perceptron
+###### 8.Neural Network
+###### 9.Random Forest
+###### 10. SVM
