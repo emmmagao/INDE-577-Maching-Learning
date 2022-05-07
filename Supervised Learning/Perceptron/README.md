@@ -8,8 +8,11 @@ As a simplified form of a neural network, specifically a single-layer neural net
 ## Data
 In this project, I will use Classification in asteroseismology dataset。
 - Pop: [0/1] Population (1)
+
 Population as follows:
+
 0 = RGB
+
 1 = HeB
 
 RGB (Red Giant Branch)
